@@ -7,7 +7,7 @@ function App() {
 
   return (
     <Routes className='root'>
-      <Route path="/" element={<Game1 />} />
+      <Route path="/tubitak-game" element={<Game1 />} />
       <Route path="/admin" element={<Admin />} />
       <Route path="*" element={<br/>} />
     </Routes>
