@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "axios": "^1.9.0",
     "gh-pages": "^6.3.0",
     "js-cookie": "^3.0.5",
     "react": "^19.0.0",
