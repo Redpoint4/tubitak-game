@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 75,
+    "eng": "garden",
+    "tr": [
+      "bahçe"
+    ],
+    "tr_hash": [
+      "baba1a29c4a85dfec570e9d14f4a3201eb1eb15d70068979cca6d223abb2186a"
+    ]
+  },
+  {
+    "id": 0,
+    "eng": "ability",
+    "tr": [
+      "yetenek"
+    ],
+    "tr_hash": [
+      "96929408ffa0f22f70db7385a8df9527c4baa7c727202669cecaa770169196ad"
+    ]
+  },
+  {
+    "id": 1,
+    "eng": "achieve",
+    "tr": [
+      "başarmak"
+    ],
+    "tr_hash": [
+      "4358b428c2703c7362602fd6329a019dffe90efeba069c7214af26c48d8adebd"
+    ]
+  },
+  {
+    "id": 2,
+    "eng": "advice",
+    "tr": [
+      "tavsiye"
+    ],
+    "tr_hash": [
+      "2e8482df825385893d9f52b68c2ea2f8e66bbf33a7c379b32f491a6798793721"
+    ]
+  },
+  {
+    "id": 3,
+    "eng": "afraid",
+    "tr": [
+      "korkmuş"
+    ],
+    "tr_hash": [
+      "f081571bed61284ae1fbb6b0f4c44b0481e8061e9a074ec3efe481209e1e6f4d"
+    ]
+  },
+  {
+    "id": 4,
+    "eng": "agreement",
+    "tr": [
+      "anlaşma"
+    ],
+    "tr_hash": [
+      "028a684687b5e7f6a91de30c5f026503024bc89cc0959786e900b60c79043f91"
+    ]
+  },
+  {
+    "id": 5,
+    "eng": "airport",
+    "tr": [
+      "havalimanı"
+    ],
+    "tr_hash": [
+      "b59dc21c223c2773963552e009d918173266afe275562f5fea4f19be8e5447eb"
+    ]
+  },
+  {
+    "id": 6,
+    "eng": "angry",
+    "tr": [
+      "sinirli"
+    ],
+    "tr_hash": [
+      "c5db27adb42062c0d1ff50d12d36ded44a3b62681dbfc427ecb61a315d3684c9"
+    ]
+  },
+  {
+    "id": 7,
+    "eng": "announce",
+    "tr": [
+      "duyurmak"
+    ],
+    "tr_hash": [
+      "e56a42fdab987cdc12fc25097ebd8d77fad8b21601ce57a43a40d635dd5fe7d4"
+    ]
+  },
+  {
+    "id": 8,
+    "eng": "arrive",
+    "tr": [
+      "varmak"
+    ],
+    "tr_hash": [
+      "10939da2a8f49d760748ed7f79686b9992374d439f8759cb87520ea20a0f44e6"
+    ]
+  },
+  {
+    "id": 9,
+    "eng": "article",
+    "tr": [
+      "madde"
+    ],
+    "tr_hash": [
+      "9931dfc71f3d78914fef7e07a90219754c43d6ffa48d7fa59e78d8c5fe812eb4"
+    ]
+  },
+  {
+    "id": 10,
+    "eng": "attack",
+    "tr": [
+      "saldırı"
+    ],
+    "tr_hash": [
+      "2b37858a6956ddc0d695cc2d534ad6dcd8f192903cb6a8f8ce5d55f5e94bb4af"
+    ]
+  },
+  {
+    "id": 11,
+    "eng": "audience",
+    "tr": [
+      "kitle"
+    ],
+    "tr_hash": [
+      "34b20c3a0559096dd680ef8a51449692e84d1eeee67a43a2e33013cbd5fd759e"
+    ]
+  },
+  {
+    "id": 12,
+    "eng": "author",
+    "tr": [
+      "yazar"
+    ],
+    "tr_hash": [
+      "f8d587b5ef1a59a733bc8f9f5de8942c8aa92448fb7c6fdb38d14fcf5d8665de"
+    ]
+  },
+  {
+    "id": 13,
+    "eng": "awake",
+    "tr": [
+      "uyanmak"
+    ],
+    "tr_hash": [
+      "7fd6b46f2f9a5faf9f7bc4ed0cc3271dd4aaa830e43b7ab0edaedd5d3f4b6a77"
+    ]
+  },
+  {
+    "id": 14,
+    "eng": "balance",
+    "tr": [
+      "denge"
+    ],
+    "tr_hash": [
+      "76a60f2b477f839400c095a20f803a8937cec02b6b342e82c288fa60d1493009"
+    ]
+  },
+  {
+    "id": 15,
+    "eng": "believe",
+    "tr": [
+      "inanmak"
+    ],
+    "tr_hash": [
+      "208f439eb17a5684ef06784f2934b7bf504d345d8d435457013bb33a11680bbf"
+    ]
+  },
+  {
+    "id": 16,
+    "eng": "benefit",
+    "tr": [
+      "fayda"
+    ],
+    "tr_hash": [
+      "fdc8ace7532a53f010d9d64c65cd6ef41b884aa10fc1029f64f730b20cd28416"
+    ]
+  },
+  {
+    "id": 17,
+    "eng": "beverage",
+    "tr": [
+      "içecek"
+    ],
+    "tr_hash": [
+      "2c9324a1626f060b219b9ac84de0f64e6c9a56a06690fdcca9690908120217a5"
+    ]
+  },
+  {
+    "id": 18,
+    "eng": "bicycle",
+    "tr": [
+      "bisiklet"
+    ],
+    "tr_hash": [
+      "c803f752f5c388bb33733b3f29e801031a4d6e3d75fc9aafd45df7e369946b42"
+    ]
+  },
+  {
+    "id": 19,
+    "eng": "blanket",
+    "tr": [
+      "battaniye"
+    ],
+    "tr_hash": [
+      "fefc192917f9931e2e21d7d2553dc6718edc472e39754d6119c072bf54ef849a"
+    ]
+  },
+  {
+    "id": 20,
+    "eng": "brain",
+    "tr": [
+      "beyin"
+    ],
+    "tr_hash": [
+      "9e9b917d212ad86e6eeef2e434e2a1748edf8e6607fc2af98346151189c2b73d"
+    ]
+  },
+  {
+    "id": 21,
+    "eng": "brave",
+    "tr": [
+      "cesur"
+    ],
+    "tr_hash": [
+      "ec7c8c58989f99da50299152045873049a99d5f409314262ca1bf9901a146230"
+    ]
+  },
+  {
+    "id": 22,
+    "eng": "bridge",
+    "tr": [
+      "köprü"
+    ],
+    "tr_hash": [
+      "167d4698de9f914bce8b69fa9287ee35a692cdd56a782eda73ea55cbd175131a"
+    ]
+  },
+  {
+    "id": 23,
+    "eng": "bright",
+    "tr": [
+      "parlak"
+    ],
+    "tr_hash": [
+      "79881239e640d0f9a1d619675f7e77a7b9594dffde7ef78883076a6ac30dc16f"
+    ]
+  },
+  {
+    "id": 24,
+    "eng": "career",
+    "tr": [
+      "kariyer"
+    ],
+    "tr_hash": [
+      "20a488241aa5ae8061e6c794b0a42ea877fbde3ab75975b88d68b08f0fe38214"
+    ]
+  },
+  {
+    "id": 25,
+    "eng": "carry",
+    "tr": [
+      "taşımak"
+    ],
+    "tr_hash": [
+      "1dff127606b71f3ad4e03bcabb9e3ca410d297155ae01e5eada7e0d02b8cff43"
+    ]
+  },
+  {
+    "id": 26,
+    "eng": "celebrate",
+    "tr": [
+      "kutlamak"
+    ],
+    "tr_hash": [
+      "02b761d2f40f69591b5537ab80c1182d847cc28d12cab70174153516e29c1363"
+    ]
+  },
+  {
+    "id": 27,
+    "eng": "chance",
+    "tr": [
+      "şans"
+    ],
+    "tr_hash": [
+      "d4900072f47170f28ae30c91eaae951ae288d4076cb700bcc4e08a59fbe0f306"
+    ]
+  },
+  {
+    "id": 28,
+    "eng": "choose",
+    "tr": [
+      "seçmek"
+    ],
+    "tr_hash": [
+      "aef5c20506648a5d4c177b9025ed7daccde6585e89524a2d6ab476490c66670f"
+    ]
+  },
+  {
+    "id": 29,
+    "eng": "circle",
+    "tr": [
+      "daire"
+    ],
+    "tr_hash": [
+      "cb33566a6cc2c02ede00540ec3970acf8f15a7ed09207594f4bcf7781be4f85d"
+    ]
+  },
+  {
+    "id": 30,
+    "eng": "climb",
+    "tr": [
+      "tırmanmak"
+    ],
+    "tr_hash": [
+      "2823dc76031795224b8202a3991a88b71d6d71f4344d251f5840c68c49569fa6"
+    ]
+  },
+  {
+    "id": 31,
+    "eng": "collect",
+    "tr": [
+      "toplamak"
+    ],
+    "tr_hash": [
+      "9b29629b30edd89d16bac00d7a1b9ee31a48f5431149c5fa7ff24e4a84c59149"
+    ]
+  },
+  {
+    "id": 32,
+    "eng": "common",
+    "tr": [
+      "yaygın"
+    ],
+    "tr_hash": [
+      "ff044682eb43659c2410967dfeafd2b933b6f3a0881cb05fe4d164914c819586"
+    ]
+  },
+  {
+    "id": 33,
+    "eng": "compare",
+    "tr": [
+      "karşılaştırmak"
+    ],
+    "tr_hash": [
+      "50074b234c24e0c7032b54e39a239de190e3df0e959fff6be2fa5ae860b6c53b"
+    ]
+  },
+  {
+    "id": 34,
+    "eng": "complete",
+    "tr": [
+      "tamamlamak"
+    ],
+    "tr_hash": [
+      "cc4f0f886c03fc06bcacfcd9599ddc3320e6734b901919138370c28fbe8704d4"
+    ]
+  },
+  {
+    "id": 35,
+    "eng": "condition",
+    "tr": [
+      "durum"
+    ],
+    "tr_hash": [
+      "3cecda3db278bfc761093e1bb162aef51c761ec7910380ed71bb0cc02ff12834"
+    ]
+  },
+  {
+    "id": 36,
+    "eng": "conversation",
+    "tr": [
+      "konuşma"
+    ],
+    "tr_hash": [
+      "fba608df9e0fa5fb2fed759cba91be303536a098101484f23244c6807f630fa0"
+    ]
+  },
+  {
+    "id": 37,
+    "eng": "create",
+    "tr": [
+      "yaratmak"
+    ],
+    "tr_hash": [
+      "d0885b289a041fef170a417598c6a18cdde35225684500b671657dfb52a19739"
+    ]
+  },
+  {
+    "id": 38,
+    "eng": "dangerous",
+    "tr": [
+      "tehlikeli"
+    ],
+    "tr_hash": [
+      "c8331c3653104ee966eaf7c6a5c83532f65d20fcf53b0ee7469438c5e84d98a7"
+    ]
+  },
+  {
+    "id": 39,
+    "eng": "decision",
+    "tr": [
+      "karar"
+    ],
+    "tr_hash": [
+      "5bef9a0cd1412dc478d5201e27ffc2fef72f67d463f9876b91274d2901ad08cb"
+    ]
+  },
+  {
+    "id": 40,
+    "eng": "delicious",
+    "tr": [
+      "lezzetli"
+    ],
+    "tr_hash": [
+      "0020bcc2bd123e6363ddb9e7c512a21b27b71f563da683862e520081217a7c49"
+    ]
+  },
+  {
+    "id": 41,
+    "eng": "describe",
+    "tr": [
+      "betimlemek"
+    ],
+    "tr_hash": [
+      "edc15e2003e3d72efff815c0b4b48f2eb8d4f393ee3a27f347048b3728382b67"
+    ]
+  },
+  {
+    "id": 42,
+    "eng": "design",
+    "tr": [
+      "tasarım"
+    ],
+    "tr_hash": [
+      "3d222323c446e503bdd3ce7507536a7917f15394e18bee12e02ee44ff2998601"
+    ]
+  },
+  {
+    "id": 43,
+    "eng": "develop",
+    "tr": [
+      "geliştirmek"
+    ],
+    "tr_hash": [
+      "34feba149cc0f254bd7842abbc6e3418af9d1f15345e71d587ce2b2950beea6a"
+    ]
+  },
+  {
+    "id": 44,
+    "eng": "direction",
+    "tr": [
+      "yön"
+    ],
+    "tr_hash": [
+      "9471fbe124928bf9f52c8796823f758d1d4debca826f90c6130e6bcaab2c45db"
+    ]
+  },
+  {
+    "id": 45,
+    "eng": "discover",
+    "tr": [
+      "keşfetmek"
+    ],
+    "tr_hash": [
+      "a0d565d8ba654485849feca2a9f972346fae8b65f91c61a03a07b301194d27df"
+    ]
+  },
+  {
+    "id": 46,
+    "eng": "disease",
+    "tr": [
+      "hastalık"
+    ],
+    "tr_hash": [
+      "92b89eb6ad2c21af21193c5cf601d458280703f01d7224e46260062c01fd9e27"
+    ]
+  },
+  {
+    "id": 47,
+    "eng": "distance",
+    "tr": [
+      "mesafe"
+    ],
+    "tr_hash": [
+      "8d2c5707fe11389930ddda0c3e4096524c0f0a92f956ae63acc6c5e1aee9638c"
+    ]
+  },
+  {
+    "id": 48,
+    "eng": "double",
+    "tr": [
+      "çift"
+    ],
+    "tr_hash": [
+      "b50b01e7d9a8eb349e7ab1b1cd8da6490c11939147e1b8397803dd657005a4cc"
+    ]
+  },
+  {
+    "id": 49,
+    "eng": "education",
+    "tr": [
+      "eğitim"
+    ],
+    "tr_hash": [
+      "1702945b7426c677595a40ff32f686a2fb90b839014f4f97424e4a1a80defeff"
+    ]
+  },
+  {
+    "id": 50,
+    "eng": "effect",
+    "tr": [
+      "etki"
+    ],
+    "tr_hash": [
+      "7c42ebe6deb7a0b1f73d94e941e7df127b8e1a0b1755cf814e1f216cf82120a1"
+    ]
+  },
+  {
+    "id": 51,
+    "eng": "effort",
+    "tr": [
+      "çaba"
+    ],
+    "tr_hash": [
+      "0e9dda5c483aa1b4b8f46c227c38fd974f08e578962e7027b780a850bea435c1"
+    ]
+  },
+  {
+    "id": 52,
+    "eng": "emotion",
+    "tr": [
+      "duygu"
+    ],
+    "tr_hash": [
+      "f2bc02691f58d76c7d50b3bd8c56f3c51deab8ca86ad20b413903099b0eba3fa"
+    ]
+  },
+  {
+    "id": 53,
+    "eng": "energy",
+    "tr": [
+      "enerji"
+    ],
+    "tr_hash": [
+      "34515e4055e23b342b11ce1253ba22e0900bff5693a5d915bc271ceb8b661b8a"
+    ]
+  },
+  {
+    "id": 54,
+    "eng": "enjoy",
+    "tr": [
+      "eğlence"
+    ],
+    "tr_hash": [
+      "0b9abf40ed7c160213d2bcf9d22d3d3e0f857de2603841a5907a00da0a10ba7f"
+    ]
+  },
+  {
+    "id": 55,
+    "eng": "environment",
+    "tr": [
+      "çevre"
+    ],
+    "tr_hash": [
+      "4b21d58be985a440b7d3f1d00452e7f0cba513bae7b7dcae7aaaf35d77121e87"
+    ]
+  },
+  {
+    "id": 56,
+    "eng": "escape",
+    "tr": [
+      "kaçmak"
+    ],
+    "tr_hash": [
+      "daf478978d08cde8a13063d44925d880c8d7bf5bfb702568d365839af3fd83d0"
+    ]
+  },
+  {
+    "id": 57,
+    "eng": "event",
+    "tr": [
+      "etkinlik"
+    ],
+    "tr_hash": [
+      "9ecc9fb388b2deb08ef298aa1314d7fdd031e38b404c1d3c06dc1e1dcc8cac19"
+    ]
+  },
+  {
+    "id": 58,
+    "eng": "exactly",
+    "tr": [
+      "kesinlikle"
+    ],
+    "tr_hash": [
+      "0b41b07bf95fff0b96406030b9efc8b7a45303c499b8d11cced97a9d65d6e260"
+    ]
+  },
+  {
+    "id": 59,
+    "eng": "example",
+    "tr": [
+      "örnek"
+    ],
+    "tr_hash": [
+      "2a38d21d739fe00bd706b983eb38fb1878ec97d65e10ad0cccab09a7d82e6ed8"
+    ]
+  },
+  {
+    "id": 60,
+    "eng": "excited",
+    "tr": [
+      "heyecanlı"
+    ],
+    "tr_hash": [
+      "ee4658278b78e74987b249275ab708a66d66b95991cf4107c0dfe57477189dea"
+    ]
+  },
+  {
+    "id": 61,
+    "eng": "expect",
+    "tr": [
+      "beklemek"
+    ],
+    "tr_hash": [
+      "bedfa621a3de48a354a0f044209cca6319a440282fe960e2dba5bf67e5290ad7"
+    ]
+  },
+  {
+    "id": 62,
+    "eng": "experience",
+    "tr": [
+      "deneyim"
+    ],
+    "tr_hash": [
+      "7b4306bd2481592456a5f866f515e91ce9bd939f7fa5153109b5b88bc375fb36"
+    ]
+  },
+  {
+    "id": 63,
+    "eng": "expert",
+    "tr": [
+      "uzman"
+    ],
+    "tr_hash": [
+      "45d370e4551c4a8ad5836e5a536d8c3a21aecb1db8cc390af968de662b6798e2"
+    ]
+  },
+  {
+    "id": 64,
+    "eng": "explain",
+    "tr": [
+      "açıklamak"
+    ],
+    "tr_hash": [
+      "aa46e2423706ef65de374e3c0846d0dd257d39c855e514a223a80cc173ae1e66"
+    ]
+  },
+  {
+    "id": 65,
+    "eng": "famous",
+    "tr": [
+      "ünlü"
+    ],
+    "tr_hash": [
+      "e3a5997004e9e13e88944bf8d45157cfe4e360b3534335c39a30cff8577556c5"
+    ]
+  },
+  {
+    "id": 66,
+    "eng": "feature",
+    "tr": [
+      "özellik"
+    ],
+    "tr_hash": [
+      "7fa8fc3fa3cd5be629e8b975735f2c4cc3e0f017dc6ace7ad6d6c9992da778f4"
+    ]
+  },
+  {
+    "id": 67,
+    "eng": "feeling",
+    "tr": [
+      "his"
+    ],
+    "tr_hash": [
+      "73c9c98668a34c54d131ff609d0bf129068d1b5ed3efd7cdfe753f909596456c"
+    ]
+  },
+  {
+    "id": 68,
+    "eng": "fight",
+    "tr": [
+      "kavga"
+    ],
+    "tr_hash": [
+      "f53deac93f7a0164b41b6d4426840b034c89e8c06343b82ca35393cdd0f31e33"
+    ]
+  },
+  {
+    "id": 69,
+    "eng": "focus",
+    "tr": [
+      "odak"
+    ],
+    "tr_hash": [
+      "77d8cdbe3a1c09cf1ad5788cc1bb43da788cd3a85a66043ae25a9eaf430811b4"
+    ]
+  },
+  {
+    "id": 70,
+    "eng": "forget",
+    "tr": [
+      "unutmak"
+    ],
+    "tr_hash": [
+      "3150db148569d92b6c2c733ac4f1343ac386e90fb7fc8e81193a235f1e408c18"
+    ]
+  },
+  {
+    "id": 71,
+    "eng": "forgive",
+    "tr": [
+      "affetmek"
+    ],
+    "tr_hash": [
+      "415449cccc097699082e6f2fa3dff6ea8d56174a5467344071117f565fb17168"
+    ]
+  },
+  {
+    "id": 72,
+    "eng": "freedom",
+    "tr": [
+      "özgürlük"
+    ],
+    "tr_hash": [
+      "6945213e7a9cc53f6fe2b04fde8792236cfcf2035b578f8ac1a5c14008790e10"
+    ]
+  },
+  {
+    "id": 73,
+    "eng": "friendly",
+    "tr": [
+      "arkadaşça"
+    ],
+    "tr_hash": [
+      "e3174030aa851a27b76e536c4ae272a0e6d2defa7a01975645c16079f66225ec"
+    ]
+  },
+  {
+    "id": 74,
+    "eng": "future",
+    "tr": [
+      "gelecek"
+    ],
+    "tr_hash": [
+      "abec5068861f3acbcec1c83332840d23f77514a9b1d426c3a4c648e8fe0b484d"
+    ]
+  },
+  {
+    "id": 76,
+    "eng": "gather",
+    "tr": [
+      "toplamak"
+    ],
+    "tr_hash": [
+      "9b29629b30edd89d16bac00d7a1b9ee31a48f5431149c5fa7ff24e4a84c59149"
+    ]
+  },
+  {
+    "id": 78,
+    "eng": "group",
+    "tr": [
+      "grup"
+    ],
+    "tr_hash": [
+      "2b687f9b0a248bedac9642ee0e6f8b666dd98a4c992939e0e1d27db8bd92c544"
+    ]
+  },
+  {
+    "id": 79,
+    "eng": "growth",
+    "tr": [
+      "büyüme"
+    ],
+    "tr_hash": [
+      "372b6b13bb429b42772848c3914257921c03334966e325fc7cd8b69a115a8877"
+    ]
+  },
+  {
+    "id": 80,
+    "eng": "guess",
+    "tr": [
+      "tahmin etmek"
+    ],
+    "tr_hash": [
+      "c6fe42fdfec04ed65e59132b34c57356740a1c238ccf9fccc26290462c5a1e09"
+    ]
+  },
+  {
+    "id": 81,
+    "eng": "habit",
+    "tr": [
+      "alışkanlık"
+    ],
+    "tr_hash": [
+      "1ac27da1e09c20414a29d5260d344f55ea3d030bcf817898ee7e515021b085a8"
+    ]
+  },
+  {
+    "id": 82,
+    "eng": "health",
+    "tr": [
+      "sağlık"
+    ],
+    "tr_hash": [
+      "b318dcb978dbdae24fe3dda66ddbb2131015b4cd1c1fec75bf109386ce2f17d5"
+    ]
+  },
+  {
+    "id": 83,
+    "eng": "honest",
+    "tr": [
+      "dürüst"
+    ],
+    "tr_hash": [
+      "3e16dbaec6461e8e4f00104f8d2efb81c803ded802bb7461fa8b1ccd17bf65ef"
+    ]
+  },
+  {
+    "id": 84,
+    "eng": "hope",
+    "tr": [
+      "umut"
+    ],
+    "tr_hash": [
+      "c1f547f520d1d65aafbaa67b54f7f7d7f867c4030d91adff757ca17990716c7e"
+    ]
+  },
+  {
+    "id": 85,
+    "eng": "idea",
+    "tr": [
+      "fikir"
+    ],
+    "tr_hash": [
+      "a0b50a2b66177b0b2a8be3a4736944da62d1431d304a4c6cdfa55731cf9f1e94"
+    ]
+  },
+  {
+    "id": 86,
+    "eng": "improve",
+    "tr": [
+      "geliştirmek"
+    ],
+    "tr_hash": [
+      "34feba149cc0f254bd7842abbc6e3418af9d1f15345e71d587ce2b2950beea6a"
+    ]
+  },
+  {
+    "id": 87,
+    "eng": "include",
+    "tr": [
+      "katmak"
+    ],
+    "tr_hash": [
+      "77974bad8e4478cde17ebf7c73926fedbb62b8bbd4329a3fdb8f134a25258905"
+    ]
+  },
+  {
+    "id": 88,
+    "eng": "information",
+    "tr": [
+      "bilgi"
+    ],
+    "tr_hash": [
+      "9f2fb4fd0fabc9cbf2072cf04dd8173834bdc6362f76478701e2e634a7e3267f"
+    ]
+  },
+  {
+    "id": 89,
+    "eng": "inside",
+    "tr": [
+      "içeri"
+    ],
+    "tr_hash": [
+      "a9d7f03f7ed8e2804372d5f066dc2d95ea8596e5afe8ee201c537993fb05f1f9"
+    ]
+  },
+  {
+    "id": 90,
+    "eng": "instead",
+    "tr": [
+      "yerine"
+    ],
+    "tr_hash": [
+      "c2120380e6bdb3543d48d56540267a12f9845e776c8287e5d27441a211304058"
+    ]
+  },
+  {
+    "id": 91,
+    "eng": "interest",
+    "tr": [
+      "faiz"
+    ],
+    "tr_hash": [
+      "113f63ac166c27a287ed631c067db0f28f596afc0e9815c40ddcd4d522469f38"
+    ]
+  },
+  {
+    "id": 92,
+    "eng": "invite",
+    "tr": [
+      "davet etmek"
+    ],
+    "tr_hash": [
+      "227fdb1fa816a24a0c4ae8f397230fe685cc768fc21d6a4118834e6474126c68"
+    ]
+  },
+  {
+    "id": 93,
+    "eng": "journey",
+    "tr": [
+      "seyahat"
+    ],
+    "tr_hash": [
+      "3711561cf43cc5f1d83ba2e9f21e5eed1535a25c1e7359c1ab0d7fa6deb48530"
+    ]
+  },
+  {
+    "id": 94,
+    "eng": "justice",
+    "tr": [
+      "adalet"
+    ],
+    "tr_hash": [
+      "fc66e1a9f59c6038f6bd2055f5afd2291829f0450ea84fe685dc85cf422f545d"
+    ]
+  },
+  {
+    "id": 95,
+    "eng": "knowledge",
+    "tr": [
+      "bilgi"
+    ],
+    "tr_hash": [
+      "9f2fb4fd0fabc9cbf2072cf04dd8173834bdc6362f76478701e2e634a7e3267f"
+    ]
+  },
+  {
+    "id": 96,
+    "eng": "laugh",
+    "tr": [
+      "gülmek"
+    ],
+    "tr_hash": [
+      "b2324278da4f1b591f301e3a44605fa664b8e5f1044f4b5b6c6a88af2b679e3e"
+    ]
+  },
+  {
+    "id": 97,
+    "eng": "learn",
+    "tr": [
+      "öğrenmek"
+    ],
+    "tr_hash": [
+      "7460b847ed6b7e4d5892308874c48c4330850973ecdbe1e123dad2dbd47d7bb9"
+    ]
+  },
+  {
+    "id": 98,
+    "eng": "listen",
+    "tr": [
+      "dinlemek"
+    ],
+    "tr_hash": [
+      "c3270659e2077d7a2ace26d4dc132a6c44801e2be15e1c42405c18152739c9b3"
+    ]
+  },
+  {
+    "id": 99,
+    "eng": "lucky",
+    "tr": [
+      "şanslı"
+    ],
+    "tr_hash": [
+      "5313087d29f8641e98c835e9a29172343b4c1b3a62d955a1acbacc1d196bd796"
+    ]
+  },
+  {
+    "id": 77,
+    "eng": "goal",
+    "tr": [
+      "amaç"
+    ],
+    "tr_hash": [
+      "803744c797a7dc5751634fc5be3777c968041c662225d1c616743ea993a58633"
+    ]
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 0,
+    "eng": "abandon",
+    "tr": [
+      "terk etmek"
+    ],
+    "tr_hash": [
+      "9ec39745e46f0daea955b1d651bc7efb77b6cef1f14697ca2036e207a3cd41e2"
+    ]
+  },
+  {
+    "id": 1,
+    "eng": "abstract",
+    "tr": [
+      "soyut"
+    ],
+    "tr_hash": [
+      "6c4ad8e9f15612f4f7438c67472a474266b461748b1005e40f5cac1832d38aed"
+    ]
+  },
+  {
+    "id": 2,
+    "eng": "access",
+    "tr": [
+      "erişim"
+    ],
+    "tr_hash": [
+      "8ff47cd9ae5ac911e4c59269cefaa9c326b262d93b8bcc68731cd52bc55c03b1"
+    ]
+  },
+  {
+    "id": 3,
+    "eng": "accomplish",
+    "tr": [
+      "sonuçlandırmak"
+    ],
+    "tr_hash": [
+      "52fc642f86651bfbee4d74f7e020b68bbfcfe6876661447da75060b2b697168c"
+    ]
+  },
+  {
+    "id": 4,
+    "eng": "accurate",
+    "tr": [
+      "kesin"
+    ],
+    "tr_hash": [
+      "429aa7db07238c080eee0e55d905473592796be578cd2d3ff52b36c53f3fd672"
+    ]
+  },
+  {
+    "id": 5,
+    "eng": "adapt",
+    "tr": [
+      "adapte olmak"
+    ],
+    "tr_hash": [
+      "f7b26e2685099e00941b89fc508fd3c9b2239a9488603e38b5eab15d0a48ff2c"
+    ]
+  },
+  {
+    "id": 6,
+    "eng": "advocate",
+    "tr": [
+      "savunucu"
+    ],
+    "tr_hash": [
+      "6bf4946fb5afdc8989de20d0b08f2eeab967ccdbc746829041a166a5e177cff2"
+    ]
+  },
+  {
+    "id": 7,
+    "eng": "allocate",
+    "tr": [
+      "tahsis etmek"
+    ],
+    "tr_hash": [
+      "6e49f562b706b72b7facadd290b3a58cfb33ffe69d46ee4f06b24883dca49d1e"
+    ]
+  },
+  {
+    "id": 8,
+    "eng": "alter",
+    "tr": [
+      "değiştirmek"
+    ],
+    "tr_hash": [
+      "c4f3a2bc5571cd5b7cb27f4c90ed0416d947f7d2e521f657e5c95ae5328d33d3"
+    ]
+  },
+  {
+    "id": 9,
+    "eng": "ambiguous",
+    "tr": [
+      "belirsiz"
+    ],
+    "tr_hash": [
+      "fc4528eb8809742a614d97b9c09b25a820e4a409e8b633feb7cb92f67afa7cba"
+    ]
+  },
+  {
+    "id": 10,
+    "eng": "analyze",
+    "tr": [
+      "analiz etmek"
+    ],
+    "tr_hash": [
+      "afbb5c08206f6d1243a2f055b7fc90d444812d4ce4ea958a0a35069dc61321de"
+    ]
+  },
+  {
+    "id": 11,
+    "eng": "anticipate",
+    "tr": [
+      "beklemek"
+    ],
+    "tr_hash": [
+      "bedfa621a3de48a354a0f044209cca6319a440282fe960e2dba5bf67e5290ad7"
+    ]
+  },
+  {
+    "id": 12,
+    "eng": "apparent",
+    "tr": [
+      "görünen"
+    ],
+    "tr_hash": [
+      "1849c07e35e0778eb2849c2afcde42cfc430ced963334996a4623b03436f0163"
+    ]
+  },
+  {
+    "id": 13,
+    "eng": "approximate",
+    "tr": [
+      "yaklaşık"
+    ],
+    "tr_hash": [
+      "33ac566c11e4d7e9d697a8b443c7b932f6a30643868b59b0ddf2a4ec57cacc67"
+    ]
+  },
+  {
+    "id": 14,
+    "eng": "arbitrary",
+    "tr": [
+      "keyfi"
+    ],
+    "tr_hash": [
+      "05f63a724d2ce098d574eb759cc6cc174cfb3b359e28a884c0e6f197684f8066"
+    ]
+  },
+  {
+    "id": 15,
+    "eng": "assess",
+    "tr": [
+      "değer biçmek"
+    ],
+    "tr_hash": [
+      "6cd24253339f4779f13e34d9156776fde1920bc8bf2ac101f3e32d7f2c1c8c40"
+    ]
+  },
+  {
+    "id": 16,
+    "eng": "assign",
+    "tr": [
+      "atamak"
+    ],
+    "tr_hash": [
+      "c1928928eeec9f1ea37122dd6adac0ef6f3c72bbf4905edd7c4a18c2cafab614"
+    ]
+  },
+  {
+    "id": 17,
+    "eng": "assume",
+    "tr": [
+      "farz etmek"
+    ],
+    "tr_hash": [
+      "ac019499cb8ee82e4b9e02576751eb016b65220390ae49697eb6d0e8c4c2089d"
+    ]
+  },
+  {
+    "id": 18,
+    "eng": "aware",
+    "tr": [
+      "farkında olmak"
+    ],
+    "tr_hash": [
+      "f8f53a321124e70d3b1e3ce47e199ce1a5fbeebbd066c56c12ddd14276d03e4e"
+    ]
+  },
+  {
+    "id": 19,
+    "eng": "bias",
+    "tr": [
+      "ön yargı"
+    ],
+    "tr_hash": [
+      "307380ec028ba9985bec0a41400e99e8341601afc5f6e77ca165f8f02bef3e0c"
+    ]
+  },
+  {
+    "id": 20,
+    "eng": "capable",
+    "tr": [
+      "yetenekli"
+    ],
+    "tr_hash": [
+      "3bf37f918a24dc50dd78c68dd592a22c83b42057b4a84ee6c065f604fc600efb"
+    ]
+  },
+  {
+    "id": 21,
+    "eng": "cite",
+    "tr": [
+      "alıntı yapmak"
+    ],
+    "tr_hash": [
+      "6dbbf83d048b1c921534c9369d0d02407e80e0db8f48e9ca1c37ce2499c2bc94"
+    ]
+  },
+  {
+    "id": 22,
+    "eng": "coherent",
+    "tr": [
+      "tutarlı"
+    ],
+    "tr_hash": [
+      "b7dcd61e0579d17ca69d1a9dd2534d48da8f0cd22be4e034d211eac76c6358eb"
+    ]
+  },
+  {
+    "id": 23,
+    "eng": "collapse",
+    "tr": [
+      "yıkılmak"
+    ],
+    "tr_hash": [
+      "561d0bcf5cc2f1b867d7cb85222364ae77f8de1e2084d8c9ae0dbce5de6d7427"
+    ]
+  },
+  {
+    "id": 24,
+    "eng": "commence",
+    "tr": [
+      "başlamak"
+    ],
+    "tr_hash": [
+      "9d3b7940ad82c26bdb9abb0b6f403556978d8712d114aeb28d6ed0181e7ddc2c"
+    ]
+  },
+  {
+    "id": 25,
+    "eng": "compatible",
+    "tr": [
+      "uyumlu"
+    ],
+    "tr_hash": [
+      "71ee4abfa6bb3ab692098f908ab40ac9f39e835efd148b3af268baf56c9c1e6d"
+    ]
+  },
+  {
+    "id": 26,
+    "eng": "compile",
+    "tr": [
+      "derlemek"
+    ],
+    "tr_hash": [
+      "7c4ec5db9ea616b629d21de76706f2859111089044a5334749e0f7f345a6d885"
+    ]
+  },
+  {
+    "id": 27,
+    "eng": "comprehend",
+    "tr": [
+      "kavramak"
+    ],
+    "tr_hash": [
+      "fd5fb25856ac669dc2270d1aaa7ca0fbd2d0982fbf9a2ef2f9de64c4c352ff90"
+    ]
+  },
+  {
+    "id": 28,
+    "eng": "conclude",
+    "tr": [
+      "sonuçlandırmak"
+    ],
+    "tr_hash": [
+      "52fc642f86651bfbee4d74f7e020b68bbfcfe6876661447da75060b2b697168c"
+    ]
+  },
+  {
+    "id": 29,
+    "eng": "conduct",
+    "tr": [
+      "yönetmek"
+    ],
+    "tr_hash": [
+      "48b91889f6c5ff56d813c54610306f8220803d8fe89f2444c1d095abbd457bea"
+    ]
+  },
+  {
+    "id": 30,
+    "eng": "confine",
+    "tr": [
+      "sınırlamak"
+    ],
+    "tr_hash": [
+      "4a342af342fea7f2239026e9ae87f0f145aeba5f540390c902607c93ad21516b"
+    ]
+  },
+  {
+    "id": 31,
+    "eng": "conform",
+    "tr": [
+      "uymak"
+    ],
+    "tr_hash": [
+      "5963d795c56b2b85610f87abc79317f7b3b26ba89502a306007adab0a4c2bd7f"
+    ]
+  },
+  {
+    "id": 32,
+    "eng": "consent",
+    "tr": [
+      "onay"
+    ],
+    "tr_hash": [
+      "195f1b84fa2481a11f7605c388e4309f9ee8d6611fe88b3e38df2296734555ba"
+    ]
+  },
+  {
+    "id": 33,
+    "eng": "considerable",
+    "tr": [
+      "hatırı sayılır"
+    ],
+    "tr_hash": [
+      "a2cfb4c1768c5fbbba31862bb13cce86b1b6a184d35a1681118ec797409d55eb"
+    ]
+  },
+  {
+    "id": 34,
+    "eng": "constant",
+    "tr": [
+      "devamlı"
+    ],
+    "tr_hash": [
+      "d2aab20bda6a8d655df8ff074b61ef24e77e2b513ef380c78ffdcba1bc56a3b0"
+    ]
+  },
+  {
+    "id": 35,
+    "eng": "constitute",
+    "tr": [
+      "oluşturmak"
+    ],
+    "tr_hash": [
+      "f8fc83ce60453db6d15a8b16667ef3cb058dfd8c1c690cd3f9edd43e91282134"
+    ]
+  },
+  {
+    "id": 36,
+    "eng": "constrain",
+    "tr": [
+      "kısıtlamak"
+    ],
+    "tr_hash": [
+      "cf026d0aa243363d3089331e349bd55aa0cd6157df394afc338a8af207774e75"
+    ]
+  },
+  {
+    "id": 37,
+    "eng": "consult",
+    "tr": [
+      "danışmak"
+    ],
+    "tr_hash": [
+      "e35a1ab8f28295d596c355c39d6668f9232bdbddf9e8ced606ab46fb0dea4b2b"
+    ]
+  },
+  {
+    "id": 38,
+    "eng": "consume",
+    "tr": [
+      "tüketmek"
+    ],
+    "tr_hash": [
+      "9634e1001b2a3dac5f39e87ef5084b9f9189c3e3c79a276533bb84a5934438a6"
+    ]
+  },
+  {
+    "id": 39,
+    "eng": "contradict",
+    "tr": [
+      "yalanlamak"
+    ],
+    "tr_hash": [
+      "ada91955c100008dfa71e200f5779a61f8b4bfecdcb2183a7e76c9510bff6d35"
+    ]
+  },
+  {
+    "id": 40,
+    "eng": "contribute",
+    "tr": [
+      "katkı yapmak"
+    ],
+    "tr_hash": [
+      "737ce43dcf78287ed3d9445e7028f5e11412f38e100198b510f130206a3b5da2"
+    ]
+  },
+  {
+    "id": 41,
+    "eng": "controversy",
+    "tr": [
+      "tartışma"
+    ],
+    "tr_hash": [
+      "10926b94a109f4eb0a7813f439482a53304cfcc39dad8e479b0725022aae4975"
+    ]
+  },
+  {
+    "id": 42,
+    "eng": "convert",
+    "tr": [
+      "dönüştürmek"
+    ],
+    "tr_hash": [
+      "f11d9243eddd10e007fe682d922834840cb1627770cc5c9b8ec97659bbb7069d"
+    ]
+  },
+  {
+    "id": 43,
+    "eng": "convince",
+    "tr": [
+      "ikna etmek"
+    ],
+    "tr_hash": [
+      "fe8ef44f951c5f42a3ce3001212602dff95d2fb4bf775c11d9d0865e96e83cb1"
+    ]
+  },
+  {
+    "id": 44,
+    "eng": "cooperate",
+    "tr": [
+      "işbirliği yapmak"
+    ],
+    "tr_hash": [
+      "99567057fc2f121975783346cca219a622c674ef1a0681229d05ccc0585d6488"
+    ]
+  },
+  {
+    "id": 45,
+    "eng": "correspond",
+    "tr": [
+      "karşılık vermek"
+    ],
+    "tr_hash": [
+      "99106adc4d4e2fa9bfd8db1740f206a4e9514fd610415e9224d5e365740a52cb"
+    ]
+  },
+  {
+    "id": 46,
+    "eng": "criteria",
+    "tr": [
+      "kriterler"
+    ],
+    "tr_hash": [
+      "d7363119a02a886b285ef762ee1cbe75ead19ddf59deae967640645c4f14750b"
+    ]
+  },
+  {
+    "id": 47,
+    "eng": "crucial",
+    "tr": [
+      "hayati"
+    ],
+    "tr_hash": [
+      "fd1619576f3a3ced697d292299d13f68582745bd6cc35fbbec046c931ddd90cf"
+    ]
+  },
+  {
+    "id": 48,
+    "eng": "deduce",
+    "tr": [
+      "çıkarmak"
+    ],
+    "tr_hash": [
+      "78dbfa77c2bb0fc9cfaef3310820d5bbfa5b041a751a4484275c7ba6bd712638"
+    ]
+  },
+  {
+    "id": 49,
+    "eng": "definite",
+    "tr": [
+      "kesin"
+    ],
+    "tr_hash": [
+      "429aa7db07238c080eee0e55d905473592796be578cd2d3ff52b36c53f3fd672"
+    ]
+  },
+  {
+    "id": 50,
+    "eng": "demonstrate",
+    "tr": [
+      "göstermek"
+    ],
+    "tr_hash": [
+      "d8eed1219284da51e5879b382ec60466e29e043afa8b6ca5daa50ccbfa5fce7f"
+    ]
+  },
+  {
+    "id": 51,
+    "eng": "denote",
+    "tr": [
+      "belirtmek"
+    ],
+    "tr_hash": [
+      "e0aeef1cc803cbda686e4e1cab50c263859a99477fd38b5781378a217680fd93"
+    ]
+  },
+  {
+    "id": 52,
+    "eng": "derive",
+    "tr": [
+      "türetmek"
+    ],
+    "tr_hash": [
+      "e18178e55cfb3e1fb0e7cfe5a0af1d98d11007d5f781bce2e365fa9158898d33"
+    ]
+  },
+  {
+    "id": 53,
+    "eng": "detect",
+    "tr": [
+      "tespit etmek"
+    ],
+    "tr_hash": [
+      "0cfadb84932f5f2bd9416cb7c5955dd751543b7db9ab25cd03fc9f5043836f22"
+    ]
+  },
+  {
+    "id": 54,
+    "eng": "deviate",
+    "tr": [
+      "sapmak"
+    ],
+    "tr_hash": [
+      "d4069e8e7ee859fb9234643d45145b492aa31f73474d44254c8c34041ec94517"
+    ]
+  },
+  {
+    "id": 55,
+    "eng": "differentiate",
+    "tr": [
+      "ayırt etmek"
+    ],
+    "tr_hash": [
+      "d53a507a2bb5d729afb592bdc5287eaa4c631bbaa5e6d551fe0477cce8e9216e"
+    ]
+  },
+  {
+    "id": 56,
+    "eng": "dimension",
+    "tr": [
+      "boyut"
+    ],
+    "tr_hash": [
+      "0435391075115245b2f6229975cdba2feb2fcd4eca510061275ba28778ff36ff"
+    ]
+  },
+  {
+    "id": 57,
+    "eng": "diminish",
+    "tr": [
+      "azaltmak"
+    ],
+    "tr_hash": [
+      "5bf626c3ef1a875a9c7e4cb857ae67a4684c2fa59493a57cbfd8472d75d5fa32"
+    ]
+  },
+  {
+    "id": 58,
+    "eng": "discrete",
+    "tr": [
+      "kasıtlı"
+    ],
+    "tr_hash": [
+      "b575053b8cffa755228e6ffe16f924d6f24bb3c0d304a61c9b9c205f3290112a"
+    ]
+  },
+  {
+    "id": 59,
+    "eng": "display",
+    "tr": [
+      "görüntülemek"
+    ],
+    "tr_hash": [
+      "83dde91ad099247d7f98c885655ce347aebbef3e09df276c6acbcb32baaba64d"
+    ]
+  },
+  {
+    "id": 60,
+    "eng": "distinct",
+    "tr": [
+      "belirgin"
+    ],
+    "tr_hash": [
+      "28e67b12c0a8dc7e2d9d1c1d2b88c7abb8c944cb2cdd175b546907659f522f2a"
+    ]
+  },
+  {
+    "id": 61,
+    "eng": "distort",
+    "tr": [
+      "çarpıtmak"
+    ],
+    "tr_hash": [
+      "34116ffe297349d3cd8ab46aaa89661d364825967bc9b6cf8f25f7876f06a16e"
+    ]
+  },
+  {
+    "id": 62,
+    "eng": "emphasize",
+    "tr": [
+      "vurgu"
+    ],
+    "tr_hash": [
+      "82ba59b4584c47fdc829a53ddcae0a12c9eef3901a6844585d73fa06686ccfcf"
+    ]
+  },
+  {
+    "id": 63,
+    "eng": "empirical",
+    "tr": [
+      "ampirik"
+    ],
+    "tr_hash": [
+      "0a50f9e2eabff44c4104af7d57fb70e37f72636c308fbfc873a3d488ed3982a8"
+    ]
+  },
+  {
+    "id": 64,
+    "eng": "enable",
+    "tr": [
+      "olanak vermek"
+    ],
+    "tr_hash": [
+      "1ee0b5e0e7868e2c5ed8dd4e232171a0dbb29463607c26970de872eb25d5aa7f"
+    ]
+  },
+  {
+    "id": 65,
+    "eng": "encounter",
+    "tr": [
+      "rastlamak"
+    ],
+    "tr_hash": [
+      "fcf975c3542b5a1925a7c4ebd35059b95cc1fe308377af519391483c98111826"
+    ]
+  },
+  {
+    "id": 66,
+    "eng": "enforce",
+    "tr": [
+      "zorlamak"
+    ],
+    "tr_hash": [
+      "1f63f664bbd739346cc11314972e9bd1084630706b4dd124a473f650d5a97bb8"
+    ]
+  },
+  {
+    "id": 67,
+    "eng": "enhance",
+    "tr": [
+      "genişletmek"
+    ],
+    "tr_hash": [
+      "bd5c5500678cccf4a39fad5305beff2d232f3522688d0cd232ab64d878195090"
+    ]
+  },
+  {
+    "id": 68,
+    "eng": "ensure",
+    "tr": [
+      "emin olmak"
+    ],
+    "tr_hash": [
+      "faaade5139f1bbd0b47f10f727947b21aebd3ecc9bf853df6371eb6695898904"
+    ]
+  },
+  {
+    "id": 69,
+    "eng": "establish",
+    "tr": [
+      "kurmak"
+    ],
+    "tr_hash": [
+      "f6ebabe4bab452292fdd4556d3ac933dbe1c9e5a57158bb0b69f51a33368a1fd"
+    ]
+  },
+  {
+    "id": 70,
+    "eng": "evaluate",
+    "tr": [
+      "değerlendirmek"
+    ],
+    "tr_hash": [
+      "f6a7221b5e62e348715b5c9f0618e7754a54112e90fe5f33fdea90d30ef0b5f9"
+    ]
+  },
+  {
+    "id": 71,
+    "eng": "evident",
+    "tr": [
+      "açık"
+    ],
+    "tr_hash": [
+      "f5c3d31594e289e01b3128ad200de1bf3b5d4109cfd04de6585668500e520465"
+    ]
+  },
+  {
+    "id": 72,
+    "eng": "evolve",
+    "tr": [
+      "evrim geçirmek"
+    ],
+    "tr_hash": [
+      "af9747cc877aa2c2c18bdc4bf370bd0006fac7aebbe159d4e815236d932c0a76"
+    ]
+  },
+  {
+    "id": 73,
+    "eng": "exclude",
+    "tr": [
+      "hariç tutmak"
+    ],
+    "tr_hash": [
+      "d943a8cfb07d4b625428a27e447d1e415277e2f56afda3df23e996329ce943bb"
+    ]
+  },
+  {
+    "id": 74,
+    "eng": "exhibit",
+    "tr": [
+      "sergilemek"
+    ],
+    "tr_hash": [
+      "b1fdf39311d7d97adf01e0d23ac25393e0d935a6c33c18942b6e60d624b76532"
+    ]
+  },
+  {
+    "id": 75,
+    "eng": "expand",
+    "tr": [
+      "genişletmek"
+    ],
+    "tr_hash": [
+      "bd5c5500678cccf4a39fad5305beff2d232f3522688d0cd232ab64d878195090"
+    ]
+  },
+  {
+    "id": 76,
+    "eng": "expose",
+    "tr": [
+      "ortaya çıkarmak"
+    ],
+    "tr_hash": [
+      "52161f05c8be2ea5010c91f2053ff5bd4836d018bed770bced6869077035b08e"
+    ]
+  },
+  {
+    "id": 77,
+    "eng": "facilitate",
+    "tr": [
+      "kolaylaştırmak"
+    ],
+    "tr_hash": [
+      "04e18030402bc6468bca514c85ca4f83d4d71277109681fcb105df489f9e8397"
+    ]
+  },
+  {
+    "id": 78,
+    "eng": "feature",
+    "tr": [
+      "özellik"
+    ],
+    "tr_hash": [
+      "7fa8fc3fa3cd5be629e8b975735f2c4cc3e0f017dc6ace7ad6d6c9992da778f4"
+    ]
+  },
+  {
+    "id": 79,
+    "eng": "fluctuate",
+    "tr": [
+      "dalgalandırmak"
+    ],
+    "tr_hash": [
+      "c3deaf19c84e59e2bb314e225b0b36138554f2d40cea2dd5136bf10455ad420e"
+    ]
+  },
+  {
+    "id": 80,
+    "eng": "framework",
+    "tr": [
+      "çerçeve"
+    ],
+    "tr_hash": [
+      "5cf54882d10e4ca56430537a8591d264380ef5aa97236f735597aa20e3da99bd"
+    ]
+  },
+  {
+    "id": 81,
+    "eng": "fundamental",
+    "tr": [
+      "esas"
+    ],
+    "tr_hash": [
+      "980404b3de1a93d46624e8b32323e022013bde119e773dd73597ae8cde0b44f8"
+    ]
+  },
+  {
+    "id": 82,
+    "eng": "generate",
+    "tr": [
+      "üretmek"
+    ],
+    "tr_hash": [
+      "c1ab127b43fadf64fab7a8042246e1f433f0581af1582eebc8d0e6069a378af8"
+    ]
+  },
+  {
+    "id": 83,
+    "eng": "hypothesis",
+    "tr": [
+      "hipotez"
+    ],
+    "tr_hash": [
+      "848dae56dfc5f0163dbbaac4bb724f6eea21f507416ce9972937dc8f9fbaac22"
+    ]
+  },
+  {
+    "id": 84,
+    "eng": "identify",
+    "tr": [
+      "tanımlamak"
+    ],
+    "tr_hash": [
+      "ea8a1af821400b3b6a745fb3899633394d31c1bf1480b2134893118ae79f9e1f"
+    ]
+  },
+  {
+    "id": 85,
+    "eng": "illustrate",
+    "tr": [
+      "tasvir etmek"
+    ],
+    "tr_hash": [
+      "f3febc0a15b3622a3a80ca6cb87b0ead6d9292ba9fcd0234c10e5ec2c8abe065"
+    ]
+  },
+  {
+    "id": 86,
+    "eng": "impact",
+    "tr": [
+      "darbe"
+    ],
+    "tr_hash": [
+      "c4da72e8d2e14bb50c97fae0b5e8b0012d93f63c05cdb1b6be10be5ba1b56811"
+    ]
+  },
+  {
+    "id": 87,
+    "eng": "imply",
+    "tr": [
+      "ima etmek"
+    ],
+    "tr_hash": [
+      "202bb86fac5209481b295556af95e09794648ff3e6304f45bf99c9a7b66fddf3"
+    ]
+  },
+  {
+    "id": 88,
+    "eng": "implement",
+    "tr": [
+      "uygulamak"
+    ],
+    "tr_hash": [
+      "c44a739c5d3c985bf361c95d43b071952915996a9d58b36746aefee2fc8c5e4c"
+    ]
+  },
+  {
+    "id": 89,
+    "eng": "incentive",
+    "tr": [
+      "teşvik"
+    ],
+    "tr_hash": [
+      "c53a9a2351c2280df8e679e3d08b4e9858c962cafa2c16a903fa92af3c30974a"
+    ]
+  },
+  {
+    "id": 90,
+    "eng": "indicate",
+    "tr": [
+      "belirtmek"
+    ],
+    "tr_hash": [
+      "e0aeef1cc803cbda686e4e1cab50c263859a99477fd38b5781378a217680fd93"
+    ]
+  },
+  {
+    "id": 91,
+    "eng": "individual",
+    "tr": [
+      "bireysel"
+    ],
+    "tr_hash": [
+      "4d32a38a70c5c011944fc8fea2d45013c522ebec8d89b870afffb7cf08830de5"
+    ]
+  },
+  {
+    "id": 92,
+    "eng": "inevitable",
+    "tr": [
+      "kaçınılmaz"
+    ],
+    "tr_hash": [
+      "0c98efdb04e29e08863ddee9295acfc026814128721330b4ee7fefb9d9c330d3"
+    ]
+  },
+  {
+    "id": 93,
+    "eng": "influence",
+    "tr": [
+      "etkilemek"
+    ],
+    "tr_hash": [
+      "070e580b2b745a1e9ce57565d0265d66c38daaf7b11765a5d3a38faf920d68b3"
+    ]
+  },
+  {
+    "id": 94,
+    "eng": "inhibit",
+    "tr": [
+      "engellemek"
+    ],
+    "tr_hash": [
+      "dc7700c021990a4f5850db4168956de35190c040e84360e62089f7d310affa90"
+    ]
+  },
+  {
+    "id": 95,
+    "eng": "innovate",
+    "tr": [
+      "yenilik yapmak"
+    ],
+    "tr_hash": [
+      "156fcc7bd9e97513a8eb1de7c3d8f07f7688b0909127450b3231bdce4e9da20e"
+    ]
+  },
+  {
+    "id": 96,
+    "eng": "integrate",
+    "tr": [
+      "entegre etmek"
+    ],
+    "tr_hash": [
+      "f737b3e30d218049b7b636ecf154957635b2caf5faa847dba5e66fffa3f8c46a"
+    ]
+  },
+  {
+    "id": 97,
+    "eng": "interpret",
+    "tr": [
+      "yorumlamak"
+    ],
+    "tr_hash": [
+      "b43775663c2796e827207d7a53f7e68a3299990c0d2294f11a55fb8b2d67c01c"
+    ]
+  },
+  {
+    "id": 98,
+    "eng": "invest",
+    "tr": [
+      "yatırım"
+    ],
+    "tr_hash": [
+      "4a9d073ead51cf01c6c1ff3fe869fad38c393130d7363913f9cc391df3615ba2"
+    ]
+  },
+  {
+    "id": 99,
+    "eng": "involve",
+    "tr": [
+      "içermek"
+    ],
+    "tr_hash": [
+      "6a5a7d6604cafd48b395f57996ba69fd2f2377fc4fc15a6e9f3788b70d4f681b"
+    ]
+  }
+]

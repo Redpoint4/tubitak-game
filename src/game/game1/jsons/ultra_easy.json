@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 6,
+    "eng": "book",
+    "tr": [
+      "kitap"
+    ],
+    "tr_hash": [
+      "e2c462e3e1f260a9130d09c099a7220e83762adac65536eb38b3e09b81418343"
+    ]
+  },
+  {
+    "id": 12,
+    "eng": "computer",
+    "tr": [
+      "bilgisayar"
+    ],
+    "tr_hash": [
+      "0734326bf69f65d0071300c274c0f0ddc1a343b5161519597d2bf2854b8455a1"
+    ]
+  },
+  {
+    "id": 0,
+    "eng": "apple",
+    "tr": [
+      "elma"
+    ],
+    "tr_hash": [
+      "d38a9c3ea00e94dc6ce4bd7d8476ca43fc624ae74abbc4d1f45a71ec7ab18e51"
+    ]
+  },
+  {
+    "id": 1,
+    "eng": "banana",
+    "tr": [
+      "muz"
+    ],
+    "tr_hash": [
+      "4172a97b9f6409ecf6b3039fb51eda9e837e8610f836abe1032fe6fd59529776"
+    ]
+  },
+  {
+    "id": 2,
+    "eng": "cat",
+    "tr": [
+      "kedi"
+    ],
+    "tr_hash": [
+      "959d8225a0bfdb8867d5db7fb01140b2af93f6b60da6537740a111e10b190fe7"
+    ]
+  },
+  {
+    "id": 3,
+    "eng": "dog",
+    "tr": [
+      "köpek"
+    ],
+    "tr_hash": [
+      "11968422ce44ed8a01f9522b6f808b8100aeb98d9a2728895d1808ef3e7be45b"
+    ]
+  },
+  {
+    "id": 4,
+    "eng": "house",
+    "tr": [
+      "ev"
+    ],
+    "tr_hash": [
+      "67d35554c1f60638d6d72a0edc045450a841f7efabe0f9843b7e653499094538"
+    ]
+  },
+  {
+    "id": 5,
+    "eng": "car",
+    "tr": [
+      "araba"
+    ],
+    "tr_hash": [
+      "4849a6a362ae149353a4077359f4886f6a1e89399c6aa90f3d0678d129c833eb"
+    ]
+  },
+  {
+    "id": 7,
+    "eng": "school",
+    "tr": [
+      "okul"
+    ],
+    "tr_hash": [
+      "e3f626c6a329637eebe257bb0745572b141e143fe0026f26e965ec7f771e56c5"
+    ]
+  },
+  {
+    "id": 9,
+    "eng": "table",
+    "tr": [
+      "masa"
+    ],
+    "tr_hash": [
+      "e7b69c7f6d8d805ee89ceadb0851d0317657a36e88ee06d38cbfbb362a986b9f"
+    ]
+  },
+  {
+    "id": 10,
+    "eng": "chair",
+    "tr": [
+      "sandalye"
+    ],
+    "tr_hash": [
+      "e84c0867f463b936170fdc4f2806af54e129d72d560d24d0c866fb2b57e9ba00"
+    ]
+  },
+  {
+    "id": 11,
+    "eng": "phone",
+    "tr": [
+      "telefon"
+    ],
+    "tr_hash": [
+      "b7367edaa7bb675764606b5a9343e09ee90242ce419eabfca14c7c7325e550f6"
+    ]
+  },
+  {
+    "id": 14,
+    "eng": "door",
+    "tr": [
+      "kapı"
+    ],
+    "tr_hash": [
+      "6f3c734db73d5b1223ad971698348152bd8eb4cd5340331446233f30df55cfd8"
+    ]
+  },
+  {
+    "id": 15,
+    "eng": "pen",
+    "tr": [
+      "dolma kalem"
+    ],
+    "tr_hash": [
+      "bfcca11af7937f338c74cb382dc171177db4f2fd0e92e5069189b89a411ca148"
+    ]
+  },
+  {
+    "id": 16,
+    "eng": "pencil",
+    "tr": [
+      "kalem"
+    ],
+    "tr_hash": [
+      "0e6a9c8a7ef32b695cf07d9180e253fe4ee604b9b6d5244c14ab089a6586936f"
+    ]
+  },
+  {
+    "id": 17,
+    "eng": "teacher",
+    "tr": [
+      "öğretmen"
+    ],
+    "tr_hash": [
+      "5c34cd5554d4a72765cc8189ee824eb36c464a768e80c2749272b906846d9700"
+    ]
+  },
+  {
+    "id": 18,
+    "eng": "student",
+    "tr": [
+      "öğrenci"
+    ],
+    "tr_hash": [
+      "19f80bddfbbf20003f9d59304630eb02793d7f858c2c9727292c355e8088cbe4"
+    ]
+  },
+  {
+    "id": 19,
+    "eng": "ball",
+    "tr": [
+      "top"
+    ],
+    "tr_hash": [
+      "28720365c5e7476a011e4f43ac003ee5f16247a263b9d623aa85ed311d73bf39"
+    ]
+  },
+  {
+    "id": 20,
+    "eng": "sun",
+    "tr": [
+      "güneş"
+    ],
+    "tr_hash": [
+      "fb4a70d07731ced4d9ed32985a913d5fbc068608291f4e1085c87e391e00e8b0"
+    ]
+  },
+  {
+    "id": 21,
+    "eng": "moon",
+    "tr": [
+      "ay"
+    ],
+    "tr_hash": [
+      "69d61997a241e97931db9dd1cfcef218041a752485f5f7956b09766287682da3"
+    ]
+  },
+  {
+    "id": 22,
+    "eng": "star",
+    "tr": [
+      "yıldız"
+    ],
+    "tr_hash": [
+      "7fd7da8edee2082d63b008a46dbba8e0510a3b5d22517342cd76ae16a797b3fe"
+    ]
+  },
+  {
+    "id": 23,
+    "eng": "sky",
+    "tr": [
+      "gökyüzü"
+    ],
+    "tr_hash": [
+      "e0169b1389b21b0d52b4ff5ec30a984c7cc61beb6b9c149ddb3839ca74350189"
+    ]
+  },
+  {
+    "id": 24,
+    "eng": "rain",
+    "tr": [
+      "yağmur"
+    ],
+    "tr_hash": [
+      "02570eebc3f1627c8b370c3191513e39cc941bf1cb8e4657d40fe7633040ab66"
+    ]
+  },
+  {
+    "id": 25,
+    "eng": "snow",
+    "tr": [
+      "kar"
+    ],
+    "tr_hash": [
+      "f429d420086f70a3b72b10bff0446d87dea2a385ad9ea49a135e547414d91cc2"
+    ]
+  },
+  {
+    "id": 26,
+    "eng": "hot",
+    "tr": [
+      "sıcak"
+    ],
+    "tr_hash": [
+      "9e64b813325be5c201e1e23f507713f1d644436ad5658d77da7aa20c15c7187f"
+    ]
+  },
+  {
+    "id": 27,
+    "eng": "cold",
+    "tr": [
+      "soğuk"
+    ],
+    "tr_hash": [
+      "ac504fc99570948f7d1bcd7c42e308bfe131f682daec8778e15333aa875808c4"
+    ]
+  },
+  {
+    "id": 28,
+    "eng": "big",
+    "tr": [
+      "büyük"
+    ],
+    "tr_hash": [
+      "5e504b4fd790a47478fe5c9b9691ebc848c6a8be8127a9778a869ce4de907cd3"
+    ]
+  },
+  {
+    "id": 29,
+    "eng": "small",
+    "tr": [
+      "küçük"
+    ],
+    "tr_hash": [
+      "c22df8808308b6770ba0644e4e3f071a12e8aee379d600797f0a95b6e134f0f4"
+    ]
+  },
+  {
+    "id": 30,
+    "eng": "happy",
+    "tr": [
+      "mutlu"
+    ],
+    "tr_hash": [
+      "c83ad61173f97593380e5dd0cf1b509e3c32a94ca589283474cc6c41e26010df"
+    ]
+  },
+  {
+    "id": 31,
+    "eng": "sad",
+    "tr": [
+      "üzücü"
+    ],
+    "tr_hash": [
+      "56aa80d3fb507ae3940afa06ed8d608f7910f6d8e165e3823234da2b698c928f"
+    ]
+  },
+  {
+    "id": 32,
+    "eng": "love",
+    "tr": [
+      "aşk"
+    ],
+    "tr_hash": [
+      "55593361dfd8a7c733e1507d24b9eb12b4965725ad157bd85930b427c2a63ec8"
+    ]
+  },
+  {
+    "id": 33,
+    "eng": "friend",
+    "tr": [
+      "arkadaş"
+    ],
+    "tr_hash": [
+      "ca4f9766b3e8c017f0609153865884fc68e7a7db6d7a25b30a727f5e6a613706"
+    ]
+  },
+  {
+    "id": 34,
+    "eng": "family",
+    "tr": [
+      "aile"
+    ],
+    "tr_hash": [
+      "02f4811e4df83dbe2e90ac4b1a957ca0929b56e5dbe3dd025924475257092e55"
+    ]
+  },
+  {
+    "id": 35,
+    "eng": "mother",
+    "tr": [
+      "anne"
+    ],
+    "tr_hash": [
+      "90b8de4051f02b7a29484341f3a903e1b2c6a233f5465e19c634535c7b315e6f"
+    ]
+  },
+  {
+    "id": 36,
+    "eng": "father",
+    "tr": [
+      "baba"
+    ],
+    "tr_hash": [
+      "e75a6cd43a16c2f31d1a3c17700af64d3658a380c49d65b20cc75b1f7c0e001b"
+    ]
+  },
+  {
+    "id": 37,
+    "eng": "brother",
+    "tr": [
+      "erkek kardeş"
+    ],
+    "tr_hash": [
+      "2703059e12fdcddadb98453d25dba3cc8dd2f99bdc9007a2ec862dd1c142bb40"
+    ]
+  },
+  {
+    "id": 38,
+    "eng": "sister",
+    "tr": [
+      "kız kardeş"
+    ],
+    "tr_hash": [
+      "35d5f68409c0ae93e64c0512f7fbf6ccfd0080572a02938c74032a8a0fd1f81c"
+    ]
+  },
+  {
+    "id": 39,
+    "eng": "food",
+    "tr": [
+      "yiyecek"
+    ],
+    "tr_hash": [
+      "e7a1911696e1f9a33d7eac2fdb8174e4d83ad50a7b232b8a615899d7bd9bffc9"
+    ]
+  },
+  {
+    "id": 40,
+    "eng": "milk",
+    "tr": [
+      "süt"
+    ],
+    "tr_hash": [
+      "afa1e3919581e5951126150bf0e110368b828cd2e76ebcc994373527d4a66dc7"
+    ]
+  },
+  {
+    "id": 41,
+    "eng": "bread",
+    "tr": [
+      "ekmek"
+    ],
+    "tr_hash": [
+      "1479eab3cdf93ed5f9549803be967f924e67566f56abba24787d08edc79cb638"
+    ]
+  },
+  {
+    "id": 42,
+    "eng": "cheese",
+    "tr": [
+      "peynir"
+    ],
+    "tr_hash": [
+      "5231cf028c608d2b517c2acec0a92b437a83975791cb088d258d0668637e68d9"
+    ]
+  },
+  {
+    "id": 43,
+    "eng": "pizza",
+    "tr": [
+      "pizza"
+    ],
+    "tr_hash": [
+      "9ed1515819dec61fd361d5fdabb57f41ecce1a5fe1fe263b98c0d6943b9b232e"
+    ]
+  },
+  {
+    "id": 44,
+    "eng": "fish",
+    "tr": [
+      "balık"
+    ],
+    "tr_hash": [
+      "a8bf7802a7c6f29d621f9113cec2f2d6dc86aa62088ff500d057c6ec7851e282"
+    ]
+  },
+  {
+    "id": 45,
+    "eng": "chicken",
+    "tr": [
+      "tavuk"
+    ],
+    "tr_hash": [
+      "ebb6cc53163a2fdacff8e5f130d3be31a7447577c9694f1fa2b48da531f40cb5"
+    ]
+  },
+  {
+    "id": 46,
+    "eng": "coffee",
+    "tr": [
+      "kahve"
+    ],
+    "tr_hash": [
+      "6009bb34c985c82dc2e2fa0a278e02f15ae99b1af225836a8fde7cc4ad071d3b"
+    ]
+  },
+  {
+    "id": 47,
+    "eng": "tea",
+    "tr": [
+      "çay"
+    ],
+    "tr_hash": [
+      "168b80f985a501c0438f1683c311865c67e69da0d2cd6c768d99b307e1f0c462"
+    ]
+  },
+  {
+    "id": 48,
+    "eng": "sugar",
+    "tr": [
+      "şeker"
+    ],
+    "tr_hash": [
+      "4df27cc2efa223d850f1449dfeeea6ab384c138c35f22dbef279248cf9ef236a"
+    ]
+  },
+  {
+    "id": 49,
+    "eng": "salt",
+    "tr": [
+      "tuz"
+    ],
+    "tr_hash": [
+      "f302a6a44a27869434c4e01b400f59c5ff9a468b1a2edd6bc46ddbd474ab03db"
+    ]
+  },
+  {
+    "id": 50,
+    "eng": "yes",
+    "tr": [
+      "evet"
+    ],
+    "tr_hash": [
+      "23f31d553dea70ee0b6befd2e2e16108ca1fc8b3b279c1afb5a8ffc50dc61095"
+    ]
+  },
+  {
+    "id": 51,
+    "eng": "no",
+    "tr": [
+      "hayır"
+    ],
+    "tr_hash": [
+      "158e8c460a24fc21b104bd11c3a0c05249f3dd6e62f40facb3a51a0c4ca60502"
+    ]
+  },
+  {
+    "id": 52,
+    "eng": "hello",
+    "tr": [
+      "merhaba"
+    ],
+    "tr_hash": [
+      "4c6bcdd55f3153e1939669ab1ec039e4059174dc25abdfcb2f58868849b4d61b"
+    ]
+  },
+  {
+    "id": 53,
+    "eng": "goodbye",
+    "tr": [
+      "güle güle"
+    ],
+    "tr_hash": [
+      "e15d6602b72f329a44a8bd4e592541a4546f3425cccedac4dbb9af023bc139cb"
+    ]
+  },
+  {
+    "id": 54,
+    "eng": "please",
+    "tr": [
+      "lütfen"
+    ],
+    "tr_hash": [
+      "19093b4d3eeeaaab1386f088cf4075cdf0b27886179ae4800b01e6f4ee2277e6"
+    ]
+  },
+  {
+    "id": 55,
+    "eng": "thank you",
+    "tr": [
+      "teşekkürler"
+    ],
+    "tr_hash": [
+      "a678469ff5ce59e8334efc2fd18884c79cd92c79a4be33ab21f9b934f4110dc4"
+    ]
+  },
+  {
+    "id": 56,
+    "eng": "sorry",
+    "tr": [
+      "üzgünüm"
+    ],
+    "tr_hash": [
+      "0e4b27fb150c99d521a01b896bed92b27c3f899fa8cc6197ca0b4bf0fe514866"
+    ]
+  },
+  {
+    "id": 57,
+    "eng": "ok",
+    "tr": [
+      "tamam"
+    ],
+    "tr_hash": [
+      "946b8a7467b48d5a4fafc877672884a4f7659ccad78c9bc80a8daaa0c09cc1b4"
+    ]
+  },
+  {
+    "id": 58,
+    "eng": "name",
+    "tr": [
+      "isim"
+    ],
+    "tr_hash": [
+      "842fc84a5e2f40df3373a753f745db29d2afcecb467e8c7774c8f1c69609c938"
+    ]
+  },
+  {
+    "id": 59,
+    "eng": "age",
+    "tr": [
+      "yaş"
+    ],
+    "tr_hash": [
+      "89197397c24a50d9abec6a365921d941f3335d3972c9d7209c53f7b1ed8a49d8"
+    ]
+  },
+  {
+    "id": 60,
+    "eng": "boy",
+    "tr": [
+      "erkek çocuk"
+    ],
+    "tr_hash": [
+      "9cea2bc06207e4af991aaf7a5556e7fa3d8c95d57bbf6c78fae563a555e2cdee"
+    ]
+  },
+  {
+    "id": 61,
+    "eng": "girl",
+    "tr": [
+      "kız"
+    ],
+    "tr_hash": [
+      "7bf6a1276e562ecc9895b6e25277a6a421cbe21b4941a2d3a353d96fd440c236"
+    ]
+  },
+  {
+    "id": 62,
+    "eng": "man",
+    "tr": [
+      "adam"
+    ],
+    "tr_hash": [
+      "f7f376a1fcd0d0e11a10ed1b6577c99784d3a6bbe669b1d13fae43eb64634f6e"
+    ]
+  },
+  {
+    "id": 63,
+    "eng": "woman",
+    "tr": [
+      "kadın"
+    ],
+    "tr_hash": [
+      "3d01ce2397af3dec6d6c418b999011cb00618dff40929b5f74c1d93e0f7ce5b2"
+    ]
+  },
+  {
+    "id": 64,
+    "eng": "baby",
+    "tr": [
+      "bebek"
+    ],
+    "tr_hash": [
+      "5003b90ccef30f679b0f0999be9f16d3ef42b7638cc76a1d9a3b2aa528467e37"
+    ]
+  },
+  {
+    "id": 65,
+    "eng": "toy",
+    "tr": [
+      "oyuncak"
+    ],
+    "tr_hash": [
+      "b3e5dc7464c51ec5a3a45df4e76501e7fa96ff1e175db82b78871e13495c381e"
+    ]
+  },
+  {
+    "id": 66,
+    "eng": "game",
+    "tr": [
+      "oyun"
+    ],
+    "tr_hash": [
+      "0501d29a72e07a008b7dc3437f1839424ec79792fa85e40ff0137e8cd02f7cf8"
+    ]
+  },
+  {
+    "id": 67,
+    "eng": "music",
+    "tr": [
+      "müzik"
+    ],
+    "tr_hash": [
+      "489da86ea8281010ceb28d9bb7e177e3bd4cc3626391d6f79cb472d4d89a66b1"
+    ]
+  },
+  {
+    "id": 68,
+    "eng": "dance",
+    "tr": [
+      "dans"
+    ],
+    "tr_hash": [
+      "0b135e8de8f42b4baddb5e580400b8c2dc56f9204758314c2be7019aa9d8d98a"
+    ]
+  },
+  {
+    "id": 69,
+    "eng": "song",
+    "tr": [
+      "şarkı"
+    ],
+    "tr_hash": [
+      "3170d29a021049a9ada9a37b264f54248cd8bde624ed07732460a9fee62268ae"
+    ]
+  },
+  {
+    "id": 70,
+    "eng": "movie",
+    "tr": [
+      "film"
+    ],
+    "tr_hash": [
+      "d0607f7ad2628b2af9158dfba06ce87166e66b15bf68f8f358f9aa27ccb7c321"
+    ]
+  },
+  {
+    "id": 71,
+    "eng": "tv",
+    "tr": [
+      "tv"
+    ],
+    "tr_hash": [
+      "a46e5d2bbe2d3b05b2d28b6054d98c18046bce28893d04e050724168116d5587"
+    ]
+  },
+  {
+    "id": 72,
+    "eng": "picture",
+    "tr": [
+      "resim"
+    ],
+    "tr_hash": [
+      "889d3edb31f08495617253d8e4178d9ce440a6035690b39c9fa7b9e836c0ea64"
+    ]
+  },
+  {
+    "id": 73,
+    "eng": "animal",
+    "tr": [
+      "hayvan"
+    ],
+    "tr_hash": [
+      "3a70222c72666f0ca23d3df0057b9d4427c11a9cd4239bbf47c244edfd1479b5"
+    ]
+  },
+  {
+    "id": 74,
+    "eng": "bird",
+    "tr": [
+      "kuş"
+    ],
+    "tr_hash": [
+      "f938d95dc8feda862c4c77135eb2640eaaceee8fc9a3dd3e29d99a14556df81b"
+    ]
+  },
+  {
+    "id": 75,
+    "eng": "fish",
+    "tr": [
+      "balık"
+    ],
+    "tr_hash": [
+      "a8bf7802a7c6f29d621f9113cec2f2d6dc86aa62088ff500d057c6ec7851e282"
+    ]
+  },
+  {
+    "id": 76,
+    "eng": "horse",
+    "tr": [
+      "at"
+    ],
+    "tr_hash": [
+      "981f28e351fd26c7d88d6cf378451d580dddddb3698f26f211c74a3d0d0c60b9"
+    ]
+  },
+  {
+    "id": 77,
+    "eng": "cow",
+    "tr": [
+      "inek"
+    ],
+    "tr_hash": [
+      "f2d532b266548d9de0c905137b5b8dd75fe472fdce6f6a21069393baf615bfac"
+    ]
+  },
+  {
+    "id": 78,
+    "eng": "pig",
+    "tr": [
+      "domuz"
+    ],
+    "tr_hash": [
+      "271133b1b957467e2bb8ddac91fcbdcba089d0f8b22e143644957d4dd64c9fb1"
+    ]
+  },
+  {
+    "id": 79,
+    "eng": "sheep",
+    "tr": [
+      "koyun"
+    ],
+    "tr_hash": [
+      "953e285d98fe533b00f4f9126d99e300da9a81b5903c1edeea69a5c44dc376a5"
+    ]
+  },
+  {
+    "id": 80,
+    "eng": "street",
+    "tr": [
+      "sokak"
+    ],
+    "tr_hash": [
+      "3fffb954cfc9459d1a9c6ec7d8cc4190e8130c0e2ad7725de0183892397d28eb"
+    ]
+  },
+  {
+    "id": 81,
+    "eng": "city",
+    "tr": [
+      "şehir"
+    ],
+    "tr_hash": [
+      "b4ff4e0b2703446f17fcd54a797cd4d6eec03c111fbba577fe17fbc77074d341"
+    ]
+  },
+  {
+    "id": 82,
+    "eng": "country",
+    "tr": [
+      "ülke"
+    ],
+    "tr_hash": [
+      "9c59bb9fd32155dd7d1927357d65561475be1b2b657f60bfcf2e0bbe3c82700f"
+    ]
+  },
+  {
+    "id": 83,
+    "eng": "park",
+    "tr": [
+      "park"
+    ],
+    "tr_hash": [
+      "4d3971de62245c94cd3dd8d4d3a72b8ff527d902832eedc8529a9717a969f1d1"
+    ]
+  },
+  {
+    "id": 84,
+    "eng": "tree",
+    "tr": [
+      "ağaç"
+    ],
+    "tr_hash": [
+      "0fc9cffe4ccfa22694fb1fe807a643cd95fd8c295587d4665af6faa504c41391"
+    ]
+  },
+  {
+    "id": 85,
+    "eng": "flower",
+    "tr": [
+      "çiçek"
+    ],
+    "tr_hash": [
+      "e3a1c3eb6b904b732e7635a5d1b3de762fefe9d5e087e0e03605992ab4818829"
+    ]
+  },
+  {
+    "id": 86,
+    "eng": "grass",
+    "tr": [
+      "çimen"
+    ],
+    "tr_hash": [
+      "5919a558c72eddc2dfc566602b6b07336da055ea39a300a5aca2884ac2f5935a"
+    ]
+  },
+  {
+    "id": 87,
+    "eng": "river",
+    "tr": [
+      "nehir"
+    ],
+    "tr_hash": [
+      "649c9a33282bad435a66662f0fa6521f57c19801c6d8f684a755d7b27af887a5"
+    ]
+  },
+  {
+    "id": 88,
+    "eng": "mountain",
+    "tr": [
+      "dağ"
+    ],
+    "tr_hash": [
+      "e9445500503e30e6b27ccd1c4dac5f3578cb69a0c19f0e1028c02aaef9e47545"
+    ]
+  },
+  {
+    "id": 89,
+    "eng": "beach",
+    "tr": [
+      "sahil"
+    ],
+    "tr_hash": [
+      "c0b1eac6bb604a5648a2b165f824467e3d1b04f8e682a8a75fef7f833a6190f0"
+    ]
+  },
+  {
+    "id": 90,
+    "eng": "sand",
+    "tr": [
+      "kum"
+    ],
+    "tr_hash": [
+      "38bc74489a73692697db20ee50431557d2829c8a615db97866bf2ea0f48693b0"
+    ]
+  },
+  {
+    "id": 91,
+    "eng": "sea",
+    "tr": [
+      "deniz"
+    ],
+    "tr_hash": [
+      "bb7c3c159685e879e90e657a0675cafb2ff2312266375c11bfce3fd537f196d7"
+    ]
+  },
+  {
+    "id": 92,
+    "eng": "ship",
+    "tr": [
+      "gemi"
+    ],
+    "tr_hash": [
+      "fcd0b2292ac63fbfc670ffc20d2e4dd0a298869a968e6214fad96678970a87d4"
+    ]
+  },
+  {
+    "id": 93,
+    "eng": "plane",
+    "tr": [
+      "uçak"
+    ],
+    "tr_hash": [
+      "228b6b3764c5c85df1e98ee51381fe2a1e4891c30bdd0cfc9a3b2e5dabe4a0f6"
+    ]
+  },
+  {
+    "id": 94,
+    "eng": "train",
+    "tr": [
+      "tren"
+    ],
+    "tr_hash": [
+      "76abef6399af5e8b910588b4d6746689013a25ea0f322918b15cb92b51a3c83b"
+    ]
+  },
+  {
+    "id": 95,
+    "eng": "bus",
+    "tr": [
+      "otobüs"
+    ],
+    "tr_hash": [
+      "4ed82ded73bb6d2a649f3c2516670bdb7472622fceb7e656bb17b755b3d03999"
+    ]
+  },
+  {
+    "id": 96,
+    "eng": "bike",
+    "tr": [
+      "bisiklet"
+    ],
+    "tr_hash": [
+      "c803f752f5c388bb33733b3f29e801031a4d6e3d75fc9aafd45df7e369946b42"
+    ]
+  },
+  {
+    "id": 97,
+    "eng": "walk",
+    "tr": [
+      "yürümek"
+    ],
+    "tr_hash": [
+      "b893200b2bc33dc5a4ce1c08040e0d2c9107691be8d2d01f507aef46ab56ea4a"
+    ]
+  },
+  {
+    "id": 99,
+    "eng": "jump",
+    "tr": [
+      "zıplamak"
+    ],
+    "tr_hash": [
+      "078dc5a213649787e4ecf9288120527a3b614012ee56b4ec59841b45e3a406d8"
+    ]
+  },
+  {
+    "id": 8,
+    "eng": "water",
+    "tr": [
+      "su"
+    ],
+    "tr_hash": [
+      "0a64ce10853f25cb3dc3f7d498f62d72b406be37ba8caf5aa7671414d9696049"
+    ]
+  },
+  {
+    "id": 13,
+    "eng": "window",
+    "tr": [
+      "pencere"
+    ],
+    "tr_hash": [
+      "0a5ff2014e5bbf7babdbcf1ac1364655a553f837da2c2934bc2b2dd340f42d52"
+    ]
+  },
+  {
+    "id": 98,
+    "eng": "run",
+    "tr": [
+      "koşmak"
+    ],
+    "tr_hash": [
+      "7e1ecf58cdb0509f25d01c142e54c549130f16fa1b82719f4380fd290b0199be"
+    ]
+  }
+]

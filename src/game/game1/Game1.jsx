@@ -6,6 +6,7 @@ import getWords from './Game1Utils';
 import GameEnd from "./GameEnd";
 import CountDown from "./CountDown";
 import WelcomeMenu from "./WelcomeMenu";
+import axios from "axios";
 
 function Game1() {
     let wordsCount = 1;
@@ -17,7 +18,7 @@ function Game1() {
 
     let words = [];
 
-    let gelenwords = getWords();
+    const gelenwords = useRef([]);
 
     const pool = useRef([]);
     const animationFrameId = useRef(null);
@@ -32,11 +33,13 @@ function Game1() {
     const refHeart = useRef(5);
     const unknownWords = useRef([]);
     const [counter,setCounter] = useState(0);
+    const counterRef = useRef(0);
     const [gameEnded, setGameEnded] = useState(false);
     const oldWords = useRef([]);
     const [showCountDown,setShowCountDown] = useState(false);
     const [isFirst, setIsFirst] = useState(true);
     const level = useRef(2);
+    const userName = useRef("Anonim");
 
     const clearCanvas = () => {
         ctx.current.clearRect(0, 0, canvas.current.width, canvas.current.height);
@@ -81,11 +84,11 @@ function Game1() {
                         // Yeni kelime eklemek
                         let a;
                         do {
-                            a = Math.floor(Math.random() * gelenwords.length); // Rastgele bir kelime seç
-                        } while (oldWords.current.includes(gelenwords[a].eng) || pool.current.some(w => w.eng === gelenwords[a].eng)); 
+                            a = Math.floor(Math.random() * gelenwords.current.length); // Rastgele bir kelime seç
+                        } while (oldWords.current.includes(gelenwords.current[a].eng) || pool.current.some(w => w.eng === gelenwords.current[a].eng)); 
                         // Eğer kelime oldWords içinde veya pool'da varsa, tekrar dene
     
-                        let xx = gelenwords[a];
+                        let xx = gelenwords.current[a];
     
                         const textWidth = measureTextWidth(xx.eng); // Yazının genişliği
                         let minDistance = 20;
@@ -124,12 +127,16 @@ function Game1() {
     const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
     const restartGame = async () => {
+        window.location.reload();
+
+        /*
         pool.current = [];
 
         // start animation
         setShowCountDown(true);
         setGameEnded(false);
         setCounter(0);
+        counterRef.current = 0;
         setHeart(5);
 
         await sleep(3000);
@@ -141,6 +148,7 @@ function Game1() {
         refHeart.current = 5;
         animationFrameId.current = requestAnimationFrame(loop);
         unknownWords.current = [];
+        */
     }
 
     const measureTextWidth = (text, font = "30px Montserrat") => {
@@ -162,6 +170,11 @@ function Game1() {
     }
 
     const checkIsValidWord = async (e) => {
+        if(oldWords.current.length >= gelenwords.current.length){
+            setGameEnded(true);
+            return;
+        }
+
         let value = e.target.value;
         let hashed = await generateHash(value);
     
@@ -170,19 +183,20 @@ function Game1() {
             for (let j = 0; j < element.tr_hash.length; j++) {
                 const hash = element.tr_hash[j];
                 if (hash === hashed) {
-                    
                     pool.current.splice(i, 1); 
                     setCounter((prev) => prev + 1);
+                    counterRef.current += 1;
                     e.target.value = "";
-    
+                    
+                    
                     // Yeni kelime eklemek
                     let a;
                     do {
-                        a = Math.floor(Math.random() * gelenwords.length); // Rastgele bir kelime seç
-                    } while (oldWords.current.includes(gelenwords[a].eng) || pool.current.some(w => w.eng === gelenwords[a].eng)); 
+                        a = Math.floor(Math.random() * gelenwords.current.length); // Rastgele bir kelime seç
+                    } while (oldWords.current.includes(gelenwords.current[a].eng) || pool.current.some(w => w.eng === gelenwords.current[a].eng)); 
                     // Eğer kelime oldWords içinde veya pool'da varsa, tekrar dene
     
-                    let xx = gelenwords[a];
+                    let xx = gelenwords.current[a];
     
                     const textWidth = measureTextWidth(xx.eng); // Yazının genişliği
     
@@ -219,12 +233,12 @@ function Game1() {
         for (let i = 0; i < wordsCount; i++) {
             let a;
             do {
-                a = Math.floor(Math.random() * gelenwords.length); // Rastgele bir kelime seç
-            } while (oldWords.current.includes(gelenwords[a].eng) || selectedWords.includes(gelenwords[a].eng)); 
+                a = Math.floor(Math.random() * gelenwords.current.length); // Rastgele bir kelime seç
+            } while (oldWords.current.includes(gelenwords.current[a].eng) || selectedWords.includes(gelenwords.current[a].eng)); 
             // Eğer kelime oldWords içinde veya selectedWords içinde varsa, tekrar dene
     
-            selectedWords.push(gelenwords[a].eng); // Yeni kelimeyi selectedWords'a ekle
-            words.push(gelenwords[a]); // Kelimeyi words dizisine ekle
+            selectedWords.push(gelenwords.current[a].eng); // Yeni kelimeyi selectedWords'a ekle
+            words.push(gelenwords.current[a]); // Kelimeyi words dizisine ekle
         }
     
         // Seçilen kelimeleri ekranda göstermek için
@@ -266,11 +280,14 @@ function Game1() {
         //startGame();
     }, []);
 
-    const startGame = async (levelx) => {
+    const startGame = async (levelx,uname) => {
+        userName.current = uname;
+        console.log(userName.current);
         setIsFirst(false);
         await sleep(100);
 
         level.current = levelx;
+        gelenwords.current = getWords(level.current);
         speed.current = diff[level.current];
 
         canvas.current = canvasRef.current;
@@ -279,6 +296,7 @@ function Game1() {
         setShowCountDown(true);
         setGameEnded(false);
         setCounter(0);
+        counterRef.current = 0;
         setHeart(5);
 
         await sleep(3000);
