@@ -12,14 +12,14 @@ function Game1() {
     let wordsCount = 1;
     const speed = useRef(0.02);
 
-    const diff = [0.03,0.04,0.07,0.11,0.17] // 0 1 2 3 4
+    const diff = [0.03,0.04,0.06,0.6,0.6] // 0 1 2 3 4
 
     const padding = 40;
 
     let words = [];
 
     const gelenwords = useRef([]);
-    const wordInput = useRef(null);
+
     const pool = useRef([]);
     const animationFrameId = useRef(null);
     const lastTime = useRef(0);
@@ -62,10 +62,9 @@ function Game1() {
 
     const loop = () => {
         const deltaTime = lastTime.current != 0 ? performance.now() - lastTime.current : 0;
-        
+    
         clearCanvas();
         if (refHeart.current > 0) {
-            wordInput.current.focus();
             for (let i = 0; i < pool.current.length; i++) {
                 try {
                     let element = pool.current[i];
@@ -323,7 +322,7 @@ function Game1() {
                                     <FaHeart key={i} size={20} className={styles.hearts}/>
                                 ))}
                             </div>
-                            <input type="text" onChange={checkIsValidWord} className={styles.answerInput} ref={wordInput}/>
+                            <input type="text" onChange={checkIsValidWord} className={styles.answerInput} />
                             <div className={styles.heartContainer}>
                                 <span className={styles.counter}>{counter}</span>
                             </div>
@@ -339,8 +338,6 @@ function Game1() {
                 <div className={styles.gameend}>
                     {gameEnded ? <GameEnd score={counter} unknownWords={unknownWords.current} restartFunc={restartGame} /> : null}
                 </div>
-
-                <button className={styles.endGameBtn} onClick={() => {setGameEnded(true); setHeart(0); refHeart.current = 0;}}>Oyunu Bitir</button>
                 
             </div>
 
